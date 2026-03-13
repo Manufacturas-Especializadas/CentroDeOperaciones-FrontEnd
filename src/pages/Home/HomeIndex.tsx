@@ -4,7 +4,7 @@ import { ProjectCard } from "../../components/ProjectCard/ProjectCard";
 export const HomeIndex = () => {
   const proyectos = [
     {
-      title: "Mejora Continua",
+      title: "DAMESAidea",
       description: "Portal para el registro y seguimiento de ideas de mejora.",
       icon: <BarChart3 className="text-blue-600" size={28} />,
       href: "https://lively-forest-01f0c7010.1.azurestaticapps.net",
