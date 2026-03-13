@@ -19,7 +19,7 @@ export const HomeIndex = () => {
       color: "bg-orange-50",
     },
     {
-      title: "Control de EPP",
+      title: "Registro de EPP",
       description:
         "Inventario y asignación de Equipo de Protección Personal para el cumplimiento de seguridad.",
       icon: <ShieldCheck className="text-emerald-600" size={28} />,
