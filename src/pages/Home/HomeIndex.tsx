@@ -11,7 +11,7 @@ export const HomeIndex = () => {
       color: "bg-blue-50",
     },
     {
-      title: "Reporte de Fallas",
+      title: "Reporte de Fallas de Mantenimiento",
       description:
         "Gestión de incidencias de mantenimiento preventivo y correctivo de la planta.",
       icon: <Wrench className="text-orange-600" size={28} />,
